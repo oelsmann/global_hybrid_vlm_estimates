@@ -112,7 +112,6 @@ Output Data is provided on zenodo and at : ./scripts/data/
 
 | description | size | filename |
 | --- | --- | --- |
-
 |VLM data in large coastal cities |4.0K|	`City_VLM_comparison.csv`|
 |VLM data in large coastal cities with additional information |16K|	`City_VLM_comparison.xlsx`|
 |Global VLM estimates on DIVA grid (main file) |1.7M|	`Global_VLM_data_Oelsmann_2025_data_supplement.nc`|
@@ -172,12 +171,11 @@ Start Python, Jupyter Notebook, or JupyterLab within the activated environment a
 
 | Script Name | Description | How to Run |
 | --- | --- | --- |
-
-| 1_estimate_china_VLM.ipynb | script to map china csv city averages to DIVA rgid | execute in jp-notebook
-| 2_combine_VLMsources_globally.ipynb | script to combine VLM data from OE24, GIA, EU, USA, New Zealand | execute in jp-notebook
-| 3_add_delta_VLM.ipynb| script to add Delta data from Ohenhen et al., 2026 and Nienhuis and Törnqvist, 2017  | execute in jp-notebook
-| 4_plots.ipynb| script to make all main paper plots, and some SI figures | execute in jp-notebook
-| 5_SI_plots.ipynb| script to generate remaining SI figures | execute in jp-notebook
+| 1_estimate_china_VLM.ipynb | script to map china csv city averages to DIVA rgid | execute in jp-notebook|
+| 2_combine_VLMsources_globally.ipynb | script to combine VLM data from OE24, GIA, EU, USA, New Zealand | execute in jp-notebook|
+| 3_add_delta_VLM.ipynb| script to add Delta data from Ohenhen et al., 2026 and Nienhuis and Törnqvist, 2017  | execute in jp-notebook|
+| 4_plots.ipynb| script to make all main paper plots, and some SI figures | execute in jp-notebook|
+| 5_SI_plots.ipynb| script to generate remaining SI figures | execute in jp-notebook|
 
 
 ## Reproduce my figures
