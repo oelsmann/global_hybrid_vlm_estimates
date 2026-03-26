@@ -1,0 +1,31 @@
+name: globalvlm_py36
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.6.10
+  - pip
+
+  - numpy
+  - pandas
+  - xarray
+  - scipy
+  - matplotlib
+  - seaborn
+
+  - scikit-learn
+  - geopandas
+  - cartopy
+  - rasterio
+  - tifffile
+  - pillow
+
+  - shapely
+  - pyproj
+  - fiona
+  - rtree
+
+  - pip:
+      - fuzzywuzzy
+      - python-Levenshtein

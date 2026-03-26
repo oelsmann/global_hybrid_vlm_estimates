@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Oelsmann"
+    given-names: "Julius"
+    orcid: "https://orcid.org/0000-0003-3950-0881"
+
+title: "metarepo: Subsidence more than doubles sea-level rise today along densely populated coasts."
+repository-code: "https://github.com/oelsmann/global_hybrid_vlm_estimates/" 
+doi: 10.5281/zenodo.xxx
+url: https://github.com/oelsmann/global_hybrid_vlm_estimates/ 
+

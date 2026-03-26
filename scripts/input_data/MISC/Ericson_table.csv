@@ -1,0 +1,41 @@
+Delta;Continent;Delta Area (1000 kmý);Delta Population (millions);Delta Pop/kmý;Upstream Basin Area (1000 kmý);Name Nicholls
+ Amazon ; South America ; 106.00   ; 2.93   ; 28.00   ; 6,720.00   ; Amazon 
+ Bengal ; Asia ; 87.30   ; 111.00   ; 1,280.00   ; 1,730.00   ; Bengal 
+ Burdekin ; Oceania ; 0.86   ; 0.01   ; 7.00   ; 121.00   ; Burdekin 
+ Chao Phraya ; Asia ; 20.80   ; 13.70   ; 659.00   ; 175.00   ; Chao Phraya 
+ Colorado ; North America ; 6.34   ; 0.34   ; 53.00   ; 807.00   ; Colorado 
+ Danube ; Europe ; 4.01   ; 0.16   ; 39.00   ; 788.00   ; Danube 
+ Dniepr ; Asia ; 0.35   ; 0.03   ; 82.00   ; 509.00   ; Dniepr 
+ Ebro ; Europe ; 0.34   ; 0.02   ; 70.00   ; 82.80   ; Ebro 
+ Godavari ; Asia ; 3.43   ; 1.83   ; 534.00   ; 315.00   ; Godavari 
+ Grijalva ; Asia ; 10.40   ; 1.04   ; 100.00   ; 118.00   ; Grijalva 
+ Hong (Red) ; Asia ; 4.59   ; 5.71   ; 1,240.00   ; 191.00   ; Hong (Red) 
+ Indus ; Asia ; 6.78   ; 0.39   ; 58.00   ; 1,140.00   ; Indus 
+ Irrawaddy ; Asia ; 30.40   ; 9.72   ; 319.00   ; 421.00   ; Irrawaddy 
+ Krishna ; Asia ; 2.00   ; 0.58   ; 290.00   ; 258.00   ; Krishna 
+ Lena ; Asia ; 21.00   ; 0.00   ; -     ; 2,420.00   ; Lena 
+ Mackenzie ; North America ; 13.60   ; 0.00   ; -     ; 1,800.00   ; Mackenzie 
+ Magdalena ; South America ; 3.89   ; 1.88   ; 484.00   ; 261.00   ; Magdalena 
+ Mahakam ; Oceania ; 4.81   ; 0.71   ; 147.00   ; 71.10   ; Mahakam 
+ Mahanadi ; Asia ; 5.91   ; 3.88   ; 656.00   ; 141.00   ; Mahanadi 
+ Mekong ; Asia ; 49.10   ; 20.20   ; 413.00   ; 807.00   ; Mekong 
+ Mississippi ; North America ; 28.80   ; 1.79   ; 62.00   ; 3,220.00   ; Mississippi 
+ Moulouya ; Africa ; 0.29   ; 0.08   ; 273.00   ; 59.30   ; Moulouya 
+ Niger ; Africa ; 17.70   ; 3.73   ; 211.00   ; 2,250.00   ; Niger 
+ Nile ; Africa ; 24.90   ; 47.80   ; 1,920.00   ; 3,870.00   ; Nile 
+ Orinoco ; South America ; 25.60   ; 0.10   ; 4.00   ; 1,070.00   ; Orinoco 
+ Parana ; South America ; 12.90   ; 0.44   ; 35.00   ; 2,660.00   ; Parana 
+ Po ; Europe ; 0.73   ; 0.05   ; 71.00   ; 102.00   ; Po 
+ Rhine ; Europe ; 3.81   ; 1.94   ; 509.00   ; 230.00   ; Rhine 
+ Rhone ; Europe ; 1.22   ; 0.09   ; 76.00   ; 99.00   ; Rhone 
+ Rio Grande ; North America ; 13.90   ; 2.03   ; 145.00   ; 805.00   ; Rio Grande 
+ Sao Francisco ; South America ; 0.76   ; 0.05   ; 67.00   ; 615.00   ; Sao Francisco 
+ Sebou ; Africa ; 0.07   ; 0.11   ; 1,690.00   ; 38.40   ; Sebou 
+ Senegal ; Africa ; 3.24   ; 0.26   ; 80.00   ; 847.00   ; Senegal 
+ Shatt el Arab ; Asia ; 3.85   ; 0.42   ; 109.00   ; 1,030.00   ; Shatt el Arab 
+ Tana ; Africa ; 0.48   ; 0.00   ; 9.00   ; 98.90   ; Tana 
+ Volta ; Europe ; 2.43   ; 0.39   ; 158.00   ; 398.00   ; Volta 
+ Yangtze ; Asia ; 34.10   ; 42.10   ; 1,240.00   ; 1,800.00   ; Yangtze 
+ Yellow ; Asia ; 5.71   ; 0.61   ; 107.00   ; 896.00   ; Yellow 
+ Yukon ; North America ; 5.02   ; 0.00   ; -     ; 852.00   ; Yukon 
+ Zhujiang ; Asia ; 9.08   ; 11,700.00   ; 1,290.00   ; 649.00   ; Zhujiang 
