@@ -1,5 +1,4 @@
-[![DOI](https://zenodo.org/badge/xxxx.svg)](https://zenodo.org/doi/10.5281/zenodo.xxxx)
-
+[![DOI](https://zenodo.org/badge/xxxx.svg)](https://doi.org/10.1038/s41467-026-72293-z)
 
 # Oelsmann-etal_2026_NatComm
 
