@@ -105,7 +105,7 @@ Please download the following datasets and place them in their respective subfol
 
 ### Output data
 
-Output Data is provided on zenodo and at : ./scripts/data/
+Output Data is provided on zenodo (https://doi.org/10.5281/zenodo.19830370) and at : ./scripts/data/
 
 
 | description | size | filename |
