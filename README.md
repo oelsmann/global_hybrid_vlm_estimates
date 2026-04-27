@@ -29,8 +29,8 @@ Correspondence to: *Julius Oelsmann*, joelsmann@tulane.edu; julius.oelsmann@tum.
 Despite its strong influence on relative sea-level (RSL) rise, there is still low confidence in estimates of vertical land motion (VLM) and its contribution to RSL change. To address this problem, we synergize diverse VLM data, which now cover almost 65% of the coastal population, and are key to resolve small scale subsidence, including East, South, and Southeast Asian cities and populated deltaic regions, largely not covered by earlier geodetic measurements. We find that the average modern (1995-2020) global RSL rise experienced by coastal populations (6 mm/year) is about twice the climate-driven absolute sea-level rise. This reflects a strong tendency for higher rates of subsidence in densely populated areas, with 71% of the global coastal population living in subsiding regions. Paired with community efforts to extend consistent observations, these data are essential to ensure reliable estimates of present and future RSL rise to support risk and adaptation assessment.
 
 ## Journal reference
-_To be added upon publication._
 
+Oelsmann, J., Nicholls, R. J., Lincke, D., Marcos, M., Shirzaei, M., Sánchez, L., Ohenhen, L., Dettmering, D., Hinkel, J., Horton, B. P. & Seitz, F. Subsidence more than doubles sea-level rise today along densely populated coasts. Nature Communications (2026). https://doi.org/10.1038/s41467-026-72293-z
 
 ## Data reference
 
